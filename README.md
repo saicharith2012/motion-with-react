@@ -5,3 +5,5 @@ getting-started-with-react-animations - [preview](https://getting-started-with-r
 hover-and-exit-animations - [preview](https://hover-and-exit-animations.vercel.app/)
 
 hooks-in-motion - [preview](https://hooks-in-motion.vercel.app/)
+
+layouts-in-motion - [preview](https://layouts-in-motion.vercel.app/)
